@@ -8,6 +8,6 @@ follow file structure and replace codes.
 run the project on the terminal using below code
 npm start
 
-for live : 
+for live : https://g62zxh.csb.app/
 
 
